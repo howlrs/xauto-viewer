@@ -10,8 +10,6 @@
 
 もし、あなたが[Twitter/X（旧Twitter）での情報発信](https://xauto.howlrs.net/)に、こんな「もどかしさ」を感じているなら、このツールはまさに**「救世主」**です。
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9e5ad576-e79d-431a-9cca-9c69686929c4/96ea39f0-c76c-438e-bc9c-095f1ca2a2df/image.png)
-
 ## 🚀 あなたのツイートを「戦略兵器」に変える、全く新しい予約投稿ツール、ついに誕生！
 
 私たちのツールは、Twitter/Xの標準機能では絶対に不可能な、**「ツリー形式（スレッド形式）予約投稿」**を叶えます。これにより、長文コンテンツや連投画像ツイートを、まるで**雑誌の連載記事のように、計画的に、かつ、魅力的に配信**できます。
@@ -28,13 +26,7 @@
     - 計画的な投稿で、フォロワーの**「期待感」**を高め、エンゲージメントを飛躍的に向上させます。
     - 予約・定期実行機能で、過去の**「珠玉のコンテンツ」**を再利用し、新たなフォロワーにリーチできます。
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9e5ad576-e79d-431a-9cca-9c69686929c4/ffe9db1d-be82-4a2c-a20b-12e4913757e8/image.png)
-
-![インポート機能もしっかり](https://prod-files-secure.s3.us-west-2.amazonaws.com/9e5ad576-e79d-431a-9cca-9c69686929c4/e0d840f9-f2f7-441b-8964-1bedc6b56f50/image.png)
-
 インポート機能もしっかり
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9e5ad576-e79d-431a-9cca-9c69686929c4/5dcc0cda-28cd-42ed-981a-195680da95f8/image.png)
 
 ## ✨ このツールで、あなたの「才能」を解き放つ！
 
@@ -74,16 +66,12 @@
     - ステップバイステップで使い方を解説。**「迷うことなく」**、すぐに使いこなせるようになります。
     - 認証設定やトラブルシューティングの**「ヒント集」**も充実。
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9e5ad576-e79d-431a-9cca-9c69686929c4/ffaa015a-2845-4757-910b-d59607cfc718/image.png)
-
 ## 🚀 導入は「超簡単」！ ３つのステップで、すぐに使える！
 
 1. **「秘密の呪文」**を唱える：Twitter/XのAPIキーとシークレットをシートに貼り付け。※ 無料試用は不要です。
     - **「一度だけ」**の設定で、ツールがあなたの代わりに投稿を代行！
 2. **「魔法の鍵」**で認証：ツールメニューからアカウント認証を実行し、連携を許可。
     - **「たったこれだけ」**で、あなたのTwitter/Xアカウントとツールが夢の連携！
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/9e5ad576-e79d-431a-9cca-9c69686929c4/9f818867-fbdd-477a-a412-3a6c1286a38d/image.png)
 
 ## 🎁 今すぐ、Twitter/Xの「支配者」になろう！
 
